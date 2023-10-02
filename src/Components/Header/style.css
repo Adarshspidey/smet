@@ -1,0 +1,29 @@
+.header-body {
+  margin-bottom: 50px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.header-right-wrapper {
+  display: flex;
+  gap: 20px;
+}
+
+.header-logo {
+  color: #ddba00;
+  font-size: 36px;
+  font-style: italic;
+  font-weight: 700;
+}
+
+.header-menu {
+  font-size: 24px;
+  font-weight: 400;
+  cursor: pointer;
+}
+
+.header-menu-select {
+  color: #326eeb;
+  font-weight: 700;
+}

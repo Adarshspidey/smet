@@ -1,0 +1,47 @@
+.about-us-wrapper {
+  padding: 20px;
+  display: grid;
+  place-items: center;
+  gap: 20px;
+  background: #f4f4ff;
+  box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.1);
+}
+
+.about-us-heading {
+  color: #326eeb;
+  font-size: 36px;
+  font-weight: 400;
+}
+
+.about-us-sub-heading {
+  font-size: 24px;
+  font-style: italic;
+  font-weight: 700;
+}
+
+.office-details {
+  margin-top: 50px;
+  display: flex;
+  justify-content: space-between;
+}
+
+.office-detail-content {
+  padding: 10px;
+}
+
+.office-detail-content-header {
+  margin-bottom: 20px;
+  font-size: 24px;
+  font-style: italic;
+  font-weight: 700;
+}
+
+.office-details-content-menu {
+  margin-bottom: 5px;
+  font-size: 20px;
+  font-weight: 300;
+}
+
+.bold {
+  font-weight: 600;
+}

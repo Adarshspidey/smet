@@ -1,0 +1,38 @@
+.footer-body {
+  margin-top: 100px;
+  padding: 40px;
+  background: #f4f4ff;
+  box-shadow: 0px 4px 4px 0px #f4f4ff;
+}
+
+.footer-header-wrapper {
+  display: flex;
+  justify-content: space-between;
+}
+
+.footer-heading {
+  color: #326eeb;
+  font-size: 24px;
+  font-weight: 500;
+}
+
+.quick-link {
+  margin-top: 15px;
+}
+
+.quick-link-heading {
+  font-size: 16px;
+  font-weight: 700;
+}
+.quick-link-menu {
+  width: 140px;
+  cursor: pointer;
+}
+
+.footer-end {
+  margin-top: 10px;
+  color: #7c7c7c;
+  text-align: center;
+  font-size: 16px;
+  font-weight: 300;
+}

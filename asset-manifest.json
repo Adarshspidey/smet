@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/https//Adarshspidey.smet/static/css/main.a014975b.css",
-    "main.js": "/https//Adarshspidey.smet/static/js/main.b6b26c49.js",
-    "static/media/handshake.png": "/https//Adarshspidey.smet/static/media/handshake.bf2bf1eb155fe8652f38.png",
-    "static/media/worker-operating-gear.png": "/https//Adarshspidey.smet/static/media/worker-operating-gear.a787992731d3ebcc82cd.png",
-    "static/media/worker-walking.png": "/https//Adarshspidey.smet/static/media/worker-walking.9b4962acd95c7ee0fe05.png",
-    "static/media/sample-person.png": "/https//Adarshspidey.smet/static/media/sample-person.6536b6c81875e92d53a1.png",
-    "static/media/insta.svg": "/https//Adarshspidey.smet/static/media/insta.0da74f94cd998c99b1f1e34b7a454298.svg",
-    "index.html": "/https//Adarshspidey.smet/index.html",
-    "static/media/facebook.svg": "/https//Adarshspidey.smet/static/media/facebook.fefa3290be27006346ed03c93888d884.svg",
-    "static/media/X.svg": "/https//Adarshspidey.smet/static/media/X.5e96fd9cea1b2fed4bef300344c04522.svg",
-    "main.a014975b.css.map": "/https//Adarshspidey.smet/static/css/main.a014975b.css.map",
-    "main.b6b26c49.js.map": "/https//Adarshspidey.smet/static/js/main.b6b26c49.js.map"
+    "main.css": "/https//Adarshspidey.github.io/static/css/main.a014975b.css",
+    "main.js": "/https//Adarshspidey.github.io/static/js/main.611169e0.js",
+    "static/media/handshake.png": "/https//Adarshspidey.github.io/static/media/handshake.bf2bf1eb155fe8652f38.png",
+    "static/media/worker-operating-gear.png": "/https//Adarshspidey.github.io/static/media/worker-operating-gear.a787992731d3ebcc82cd.png",
+    "static/media/worker-walking.png": "/https//Adarshspidey.github.io/static/media/worker-walking.9b4962acd95c7ee0fe05.png",
+    "static/media/sample-person.png": "/https//Adarshspidey.github.io/static/media/sample-person.6536b6c81875e92d53a1.png",
+    "static/media/insta.svg": "/https//Adarshspidey.github.io/static/media/insta.0da74f94cd998c99b1f1e34b7a454298.svg",
+    "index.html": "/https//Adarshspidey.github.io/index.html",
+    "static/media/facebook.svg": "/https//Adarshspidey.github.io/static/media/facebook.fefa3290be27006346ed03c93888d884.svg",
+    "static/media/X.svg": "/https//Adarshspidey.github.io/static/media/X.5e96fd9cea1b2fed4bef300344c04522.svg",
+    "main.a014975b.css.map": "/https//Adarshspidey.github.io/static/css/main.a014975b.css.map",
+    "main.611169e0.js.map": "/https//Adarshspidey.github.io/static/js/main.611169e0.js.map"
   },
   "entrypoints": [
     "static/css/main.a014975b.css",
-    "static/js/main.b6b26c49.js"
+    "static/js/main.611169e0.js"
   ]
 }

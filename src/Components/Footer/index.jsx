@@ -18,13 +18,16 @@ const Footer = () => {
         </div>
       </div>
       <div className="quick-link">
-        <div className="quick-link-heading">Quick Links</div>
-        <div className="quick-link-menu">Sales & Services</div>
-        <div className="quick-link-menu">About Us</div>
-        <div className="quick-link-menu">Contact Us</div>
+        <div className="quick-link-heading">ADDRESS</div>
+        <div className="quick-link-menu">Building no I 07 Shop no 04</div>
+        <div className="quick-link-menu">Morocco Cluster International City Warsan Dubai</div>
+        <div className="quick-link-heading">Phone</div>
+        <div className="quick-link-menu">045875655</div>
+        <div className="quick-link-heading">Email</div>
+        <div className="quick-link-menu">manager@alamalalwadeh.com</div>
       </div>
       <div className="footer-end">
-        ©2023 , Sapphire Mechanical Equipment Trading L.L.C. All Rights Reserved
+        ©2024 , Al Amal Alwadeh Electromechanical Equipment Installation And Maintenance 
       </div>
     </div>
   );

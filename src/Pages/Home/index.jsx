@@ -2,8 +2,6 @@ import React from "react";
 import "./style.css";
 import handShake from "../../Assets/Image/handshake.png";
 import gear from "../../Assets/Image/worker-operating-gear.png";
-import person from "../../Assets/Image/sample-person.png";
-import ImageCard from "../../Components/ImageCard";
 
 const Home = () => {
   return (
@@ -26,19 +24,18 @@ const Home = () => {
         promoting sustainability.”
       </div>
 
-      <div className="sales-background">
-        <div className="sales-heading">KEY MARKETS</div>
+      <div className="sales-background" id="service">
+        <div className="sales-heading">Services</div>
         <div className="key-content-wrapper">
           <div className="key-content">
             <ul>
-              <li>Automotive</li>
-              <li>Aerospace</li>
-              <li>Chemical/Hydrocarbon/Fertilizer Plants</li>
-              <li>Engineering</li>
-              <li>Earth Moving and Construction Equipment's</li>
-              <li>Food and Pharmaceutical</li>
-              <li>Oil and Gas Industry</li>
-              <li>Marine Industry</li>
+              <li>Air-Conditioning Ventilations & Air Filtration Systems Installation & Maintenance</li>
+              <li>Carpentry Workshop</li>
+              <li>Electromechanical Equipment Installation and Maintenance </li>
+              <li>False Ceiling & Light Partitions Installation</li>
+              <li>Floor & Wall Tiling Works</li>
+              <li>Plaster & Cladding Works</li>
+              <li>Wall Paper Fixing</li>
             </ul>
           </div>
           <div className="image">
@@ -47,7 +44,7 @@ const Home = () => {
         </div>
       </div>
 
-      <div className="image-card-group-wrapper">
+      {/* <div className="image-card-group-wrapper">
         <div className="image-card-group-header">
           TEAM BEHIND OUR INITIATIVE
         </div>
@@ -73,7 +70,8 @@ const Home = () => {
             designation="Procurement Manager"
           />
         </div>
-      </div>
+      </div> */}
+
       <div className="customer-service-wrapper">
         <div className="customer-service-header">CUSTOMER SERVICE</div>
         <div className="customer-service-content">

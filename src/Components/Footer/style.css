@@ -23,9 +23,9 @@
 .quick-link-heading {
   font-size: 16px;
   font-weight: 700;
+  margin-top: 5px;
 }
 .quick-link-menu {
-  width: 140px;
   cursor: pointer;
 }
 

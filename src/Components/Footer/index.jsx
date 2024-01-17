@@ -9,7 +9,7 @@ const Footer = () => {
     <div className="footer-body">
       <div className="footer-header-wrapper">
         <div className="footer-heading">
-          SAPPHIRE MECHANICAL EQUIPMENT TRADING L.L.C
+          Al Amal Alwadeh Electromechanical Equipment Installation And Maintenance
         </div>
         <div className="header-right-wrapper">
           <img src={fb} alt="" />
